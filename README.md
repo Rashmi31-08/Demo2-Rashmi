@@ -4,7 +4,7 @@ Demonstrating about cloning
 Hope it works fine
 
 # Introduction of Feature engineer 2 
-(Enter your text from line 9 onwards)
+Hi removing unwanted lines
 Sarvamangala D.R trying to clone Rashmi's directory. 
 
 
