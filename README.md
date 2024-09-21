@@ -10,6 +10,7 @@ Sarvamangala D.R trying to clone Rashmi's directory.
 
 
 # General content
+this is checking with feature engineering 1 and 2. Check for merge in command line
 deleting
 
 Wanted to check for merge conflicts....
